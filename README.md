@@ -60,7 +60,49 @@ The proportion of wastewater flows which are safely treated is calculated as a r
 wastewater safely treated to the amount of wastewater generated
 
 
+## Status
 
+UNSD collects data on the volume of wastewater treated in independent treatment facilities, in other treatment plants and in urban wastewater treatment plants (WWTPs). This is data we currently have access to and listed below.
+
+OECD/ Eurostat collect data on volumes of industrial and urban wastewater discharges OECD/Eurostat databases therefore disaggregate the flow of discharged wastewater by type (for example, urban and industrial discharges). Data for the UK not yet available.
+
+### Reports
+
+1. [United Nations: SDG 6 snapshot in United Kingdom Of Great Britain And Northern Ireland](https://www.unwater.org/publications/progress-on-wastewater-treatment-631-2021-update/)
+
+
+2. [Defra: Waste water treatment inthe United Kingdom – 2012](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/69592/pb13811-waste-water-2012.pdf) 
+
+
+### Wastewater in the Headlines
+
+* [government-ease-sewage-discharge-rules-amid-chemical-shortage](https://www.theguardian.com/politics/2021/sep/07/government-ease-sewage-discharge-rules-amid-chemical-shortage) : (07/Sep/21)
+
+* [Wastewater is 'polluting rivers with microplastic](https://www.bbc.co.uk/news/science-environment-57092135) : (13/May/21)
+
+* [Sewage discharged into rivers 400,000 times in 2020](https://www.bbc.co.uk/news/science-environment-56590219) : (31/Mar/21)
+
+* [Hundreds of sewage leaks detected thanks to AI](https://www.bbc.co.uk/news/science-environment-56351501) : (11/Mar/21)
+
+* [thames-water-fined-23m-for-raw-sewage-pollution-incident](https://www.theguardian.com/environment/2021/feb/26/thames-water-fined-23m-for-raw-sewage-pollution-incident) : (26/Feb/21)
+
+* [raw-sewage-discharged-stream-buckinghamshire-thames-water](https://www.theguardian.com/environment/2021/feb/01/raw-sewage-discharged-stream-buckinghamshire-thames-water) : (01/Feb/21)
+
+* [Southern Water punished over 'shocking' wastewater spills](https://www.bbc.co.uk/news/business-48755329) : (25/Jun/19)
+
+
+### Dataset availability
+
+* [Organisation for Economic Cooperation and Development (OECD)](https://stats.oecd.org/viewhtml.aspx?datasetcode=WATER_TREAT&lang=en)
+
+* [Data.gov.uk : Urban Waste Water Treatment Directive Treatment Plants](https://data.gov.uk/dataset/0f76a1c3-1368-476b-a4df-7ef32bfd9a8b/urban-waste-water-treatment-directive-treatment-plants)
+
+* European Commision Urban Wastewater website UK
+  * [Treatment](https://uwwtd.eu/United-Kingdom/uwwtps/treatment)
+  * [Discharge Points](https://uwwtd.eu/United-Kingdom/discharge-points)
+  * [Reuse](https://uwwtd.eu/United-Kingdom/discharge-points/reuse)
+
+* [Eurostat: Wastewater treatment and disposal](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Water_statistics#Wastewater_treatment_and_disposal)
 
 
 

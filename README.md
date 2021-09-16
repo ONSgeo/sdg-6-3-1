@@ -13,7 +13,19 @@ substantially increasing recycling and safe reuse globally.
 Proportion of domestic and industrial wastewater flow safely treated
 
 ## Current Status
+* More data is required for work on SDG 6.3.1 to begin.
 
+The United Nations Statistics Division (UNSD) collects data on the volume of wastewater treated in independent treatment facilities, in other treatment plants and in urban wastewater treatment plants (WWTPs). This is data we currently have access to.
+The Joint Monitoring Programme also report estimates for wastewater treatment in the UK between 2008 and 2015.
+Links for available datasets are listed below.
+
+### Data gaps
+* For each Waste Water treament plant, We need more data on how much of the wastewater entering the treatment plant is actually treated if not 100%. 
+* More data is required on the volume of wastewater getting at least primary treatment, secondary treament or above.
+* An additional requirement is to have the volumen of waste water entering each treatment plant disagregated by source (Industrial, Domestic, Services).
+
+There are several water companies in England and Wales (listed below) and each of them should have this data for their respective service areas.
+OECD/ Eurostat collect data on volumes of industrial and urban wastewater discharges OECD/Eurostat databases therefore disaggregate the flow of discharged wastewater by type (for example, urban and industrial discharges). However, Data for the UK is not yet available.
 
 ## Definitions, Concepts and Classifications
 This indicator aims to measure two things:
@@ -77,22 +89,18 @@ wastewater safely treated to the amount of wastewater generated
 * [Wessex Water](https://www.wessexwater.co.uk/)
 * [Yorkshire Water](https://www.yorkshirewater.com/)
 
-*
-## Status
 
-UNSD collects data on the volume of wastewater treated in independent treatment facilities, in other treatment plants and in urban wastewater treatment plants (WWTPs). This is data we currently have access to and listed below.
 
-OECD/ Eurostat collect data on volumes of industrial and urban wastewater discharges OECD/Eurostat databases therefore disaggregate the flow of discharged wastewater by type (for example, urban and industrial discharges). Data for the UK not yet available.
 
-### Reports
+## Reports
 
-1. [United Nations: SDG 6 snapshot in United Kingdom Of Great Britain And Northern Ireland](https://www.unwater.org/publications/progress-on-wastewater-treatment-631-2021-update/)
+1. [Progress on Wastewater Treatment – 2021 Update](https://www.unwater.org/publications/progress-on-wastewater-treatment-631-2021-update/)
 2.  [United Nations SDG 6 Monitor and Report](https://www.unwater.org/what-we-do/monitor-and-report/)
 3.  [United Nation SDG 6 snapshot in United Kingdom Of Great Britain And Northern Ireland](https://www.sdg6data.org/country-or-area/United%20Kingdom%20of%20Great%20Britain%20and%20Northern%20Ireland)
 4. [Defra: Waste water treatment inthe United Kingdom – 2012](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/69592/pb13811-waste-water-2012.pdf) 
 
 
-### Wastewater in the Headlines
+## Wastewater in the Headlines
 
 * [government-ease-sewage-discharge-rules-amid-chemical-shortage](https://www.theguardian.com/politics/2021/sep/07/government-ease-sewage-discharge-rules-amid-chemical-shortage) : (07/Sep/21)
 
@@ -109,7 +117,7 @@ OECD/ Eurostat collect data on volumes of industrial and urban wastewater discha
 * [Southern Water punished over 'shocking' wastewater spills](https://www.bbc.co.uk/news/business-48755329) : (25/Jun/19)
 
 
-### Dataset availability
+## Dataset availability
 
 * [Organisation for Economic Cooperation and Development (OECD)](https://stats.oecd.org/viewhtml.aspx?datasetcode=WATER_TREAT&lang=en)
 

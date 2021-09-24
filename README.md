@@ -1,6 +1,5 @@
 
 
-
 # Goal 6:
 Ensure availability and sustainable management of water and sanitation for all
 
@@ -20,9 +19,9 @@ The Joint Monitoring Programme also report estimates for wastewater treatment in
 Links for available datasets are listed below.
 
 ### Data gaps
-* For each Waste Water treament plant, We need more data on how much of the wastewater entering the treatment plant is actually treated if not 100%. 
-* More data is required on the volume of wastewater getting at least primary treatment, secondary treament or above.
-* An additional requirement is to have the volumen of waste water entering each treatment plant disagregated by source (Industrial, Domestic, Services).
+* For each Waste Water treatment plant, We need more data on how much of the wastewater entering the treatment plant is actually treated if not 100%. 
+* More data is required on the volume of wastewater getting at least primary treatment, secondary treatment or above.
+* An additional requirement is to have the volume of waste water entering each treatment plant disaggregated by source (Industrial, Domestic, Services).
 
 There are several water companies in England and Wales (listed below) and each of them should have this data for their respective service areas.
 OECD/ Eurostat collect data on volumes of industrial and urban wastewater discharges OECD/Eurostat databases therefore disaggregate the flow of discharged wastewater by type (for example, urban and industrial discharges). However, Data for the UK is not yet available.
@@ -97,7 +96,7 @@ wastewater safely treated to the amount of wastewater generated
 1. [Progress on Wastewater Treatment – 2021 Update](https://www.unwater.org/publications/progress-on-wastewater-treatment-631-2021-update/)
 2.  [United Nations SDG 6 Monitor and Report](https://www.unwater.org/what-we-do/monitor-and-report/)
 3.  [United Nation SDG 6 snapshot in United Kingdom Of Great Britain And Northern Ireland](https://www.sdg6data.org/country-or-area/United%20Kingdom%20of%20Great%20Britain%20and%20Northern%20Ireland)
-4. [Defra: Waste water treatment inthe United Kingdom – 2012](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/69592/pb13811-waste-water-2012.pdf) 
+4. [Defra: Waste water treatment in the United Kingdom – 2012](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/69592/pb13811-waste-water-2012.pdf) 
 
 
 ## Wastewater in the Headlines
@@ -110,7 +109,7 @@ wastewater safely treated to the amount of wastewater generated
 
 * [Hundreds of sewage leaks detected thanks to AI](https://www.bbc.co.uk/news/science-environment-56351501) : (11/Mar/21)
 
-* [thames-water-fined-23m-for-raw-sewage-pollution-incident](https://www.theguardian.com/environment/2021/feb/26/thames-water-fined-23m-for-raw-sewage-pollution-incident) : (26/Feb/21)
+* [Thames-water-fined-23m-for-raw-sewage-pollution-incident](https://www.theguardian.com/environment/2021/feb/26/thames-water-fined-23m-for-raw-sewage-pollution-incident) : (26/Feb/21)
 
 * [raw-sewage-discharged-stream-buckinghamshire-thames-water](https://www.theguardian.com/environment/2021/feb/01/raw-sewage-discharged-stream-buckinghamshire-thames-water) : (01/Feb/21)
 
@@ -123,7 +122,7 @@ wastewater safely treated to the amount of wastewater generated
 
 * [Data.gov.uk : Urban Waste Water Treatment Directive Treatment Plants](https://data.gov.uk/dataset/0f76a1c3-1368-476b-a4df-7ef32bfd9a8b/urban-waste-water-treatment-directive-treatment-plants)
 
-* European Commision Urban Wastewater website UK
+* European Commission Urban Wastewater website UK
   * [Treatment](https://uwwtd.eu/United-Kingdom/uwwtps/treatment)
   * [Discharge Points](https://uwwtd.eu/United-Kingdom/discharge-points)
   * [Reuse](https://uwwtd.eu/United-Kingdom/discharge-points/reuse)

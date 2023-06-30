@@ -73,6 +73,10 @@ The amount of wastewater safely treated is calculated by summing all of the wast
 The proportion of wastewater flows which are safely treated is calculated as a ratio of the amount of
 wastewater safely treated to the amount of wastewater generated
 
+## Aggregation of EA Dry Weather Flow data
+
+From the wastewater supplied by EA covering from 2011 - 2021, Total wastewater treated can be calculated using the 'Average Flow' column for each year. This is working with the understanding that all flow data stated is all being treated. Based on the current dataset, Yearly aggregations can be calculated for England across the 10 year period from 2011 to 2021. However, the dataset does not currently provide a further breakdown on the level of treatment which is required to complete the Habitat Table.
+
 
 ## Water and sewage companies in England and Wales
 

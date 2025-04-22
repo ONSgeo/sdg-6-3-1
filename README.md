@@ -1,4 +1,4 @@
-
+# <code style="color : red">This repo has been archived April 2025</code>
 
 # Goal 6:
 Ensure availability and sustainable management of water and sanitation for all
